@@ -208,4 +208,4 @@ This repository serves as the official landing page for SQL Server 2019 Express 
 **Get the most recent version of SQL Server 2019 Express Edition today!**
 
 ---
-**Last updated:** 2026-11-11 16:53:43 UTC
+**Last updated:** 2026-11-11 23:18:32 UTC
